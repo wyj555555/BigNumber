@@ -1,0 +1,6 @@
+﻿  BigInt.cpp
+D:\Codes\MyBigNumber\MyBigNumber\BigInt.cpp(77,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Number.cpp
+  main.cpp
+  正在生成代码...
+  MyBigNumber.vcxproj -> D:\Codes\MyBigNumber\x64\Debug\MyBigNumber.exe
